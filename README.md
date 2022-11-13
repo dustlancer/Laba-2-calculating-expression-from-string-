@@ -1,2 +1,2 @@
-# laba 2 (calculqting expression from string)
+# laba 2 (calculating expression from string)
  
